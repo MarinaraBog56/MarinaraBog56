@@ -13,7 +13,6 @@
   - My personal coding projects are here to help me build my coding skills, so help is always appreciated!
 - How to reach me:
   - LinkedIn: https://www.linkedin.com/in/elizabethaoifebrown/
-  - Itch: https://marinarabog56.itch.io/
 
 <!---
 MarinaraBog56/MarinaraBog56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
